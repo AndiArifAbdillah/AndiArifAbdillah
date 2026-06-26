@@ -21,7 +21,7 @@ class AndiArifAbdillah:
     def __init__(self):
         self.name       = "Andi Arif Abdillah"
         self.role       = "AI/ML Engineer & Team Lead"
-        self.university = "Universitas Gunadarma - Informatics, Class 4IA05"
+        self.university = "Universitas Gunadarma - Informatics"
         self.location   = "Bekasi, Indonesia"
         self.focus      = ["FinCrime AI", "Blockchain Analytics", "Prompt Engineering"]
         self.mission    = "Build AI systems that protect people & create real-world impact"
@@ -137,7 +137,7 @@ class AndiArifAbdillah:
 ## Achievements & Competitions
 
 - **PIDI Digdaya x Hackathon 2026** - FinCrime AI (Team Lead) - *Bank Indonesia / OJK*
-- - Final Year Informatics @ Universitas Gunadarma (NPM: 50422210)
+- - Final Year Informatics @ Universitas Gunadarma 
   - - Building production-ready AI pipelines for the Indonesian financial ecosystem
    
     - ---
@@ -146,7 +146,7 @@ class AndiArifAbdillah:
 
     > *"I don't just want to write code - I want to build companies, solve real problems, and become someone genuinely useful inside organizations that matter."*
     > >
-    > >> Open to: **AI/ML Engineer**, **Blockchain Analytics**, **Prompt Engineer** roles, internships & collaborations.
+    > >> Open to: **AI/ML Engineer**, **Blockchain Analytics**, **Prompt Engineer** roles, collaborations.
     > >>
     > >> ---
     > >>
