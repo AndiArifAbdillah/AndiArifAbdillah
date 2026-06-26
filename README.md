@@ -148,7 +148,7 @@ class AndiArifAbdillah:
 
     > *"I don't just want to write code - I want to build companies, solve real problems, and become someone genuinely useful inside organizations that matter."*
     > >
-    > >> Open to: **AI/ML Engineer**, **Fintech Developer**, **Blockchain Analytics**, **Prompt Engineer** roles, internships & collaborations.
+    > >> Open to: **AI/ML Engineer**, **Fintech Developer**, **Blockchain Analytics**, **Prompt Engineer** roles & collaborations.
     > >>
     > >> ---
     > >>
