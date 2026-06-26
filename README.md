@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AndiArifAbdillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-arif-abdillah-15279030a/)
 [![GitHub followers](https://img.shields.io/github/followers/AndiArifAbdillah?style=for-the-badge&logo=github&color=A855F7)](https://github.com/AndiArifAbdillah)
+[![Kaggle](https://img.shields.io/badge/Kaggle-andiarifabdillah-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/andiarifabdillah)
 [![Profile Views](https://komarev.com/ghpvc/?username=AndiArifAbdillah&style=for-the-badge&color=A855F7)](https://github.com/AndiArifAbdillah)
 
 </div>
@@ -61,7 +62,17 @@ class AndiArifAbdillah:
 
 ---
 
-## Featured Project
+## Experience
+
+**Project Team Lead** - PIDI Digdaya x Hackathon 2026 *(Bank Indonesia / OJK)* `Mar 2026 - Present`
+Leading a 4-person team building **FinCrime AI**, an end-to-end financial crime intelligence system. Owning system architecture design and team task delegation across credit scoring, fraud detection, and crypto AML tracing pipelines.
+
+**Capstone Team Leader** - Asah Machine Learning Cohort by Dicoding `Aug 2025 - Jan 2026`
+Selected for a 6-month AI/ML development program focused on production-ready pipelines. Led the **Predictive Lead Scoring Portal** project for banking sales. Built end-to-end ML workflows with **MLflow + Docker + Grafana**, including a Deep Learning image classification capstone using TensorFlow & Keras.
+
+---
+
+## Featured Projects
 
 <div align="center">
 
@@ -77,6 +88,13 @@ class AndiArifAbdillah:
 
 [![FinCrime Repo](https://img.shields.io/badge/Repository-FinCrime-A855F7?style=for-the-badge&logo=github)](https://github.com/AndiArifAbdillah/FinCrime)
 
+### Predictive Lead Scoring Portal
+*Asah Dicoding Capstone | Banking Sales*
+
+End-to-end ML system that scores and prioritizes sales leads for banking. Combines a machine learning model with a React frontend and backend API, built with MLOps best practices (MLflow experiment tracking + Docker deployment).
+
+`Machine Learning` `React` `Backend API` `MLflow` `Docker`
+
 </div>
 
 ---
@@ -89,12 +107,15 @@ class AndiArifAbdillah:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **AI / ML**
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
@@ -107,8 +128,9 @@ class AndiArifAbdillah:
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-**Infrastructure & Tools**
+**MLOps & Tools**
 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -136,31 +158,43 @@ class AndiArifAbdillah:
 
 ---
 
-## Achievements & Competitions
+## Certifications
 
-- **PIDI Digdaya x Hackathon 2026** - FinCrime AI (Team Lead) - *Bank Indonesia / OJK*
-- - Final Year Informatics @ Universitas Gunadarma
-  - - Building production-ready AI pipelines for the Indonesian financial ecosystem
-   
-    - ---
+- **Project Planning with AI**
+- - **Belajar Machine Learning untuk Pemula** - Dicoding
+  - - **Belajar Dasar Data Science** - Dicoding
+    - - **Pengenalan ke Logika Pemrograman (Programming Logic 101)** - Dicoding
+      - - **SEO with AI**
+       
+        - ---
 
-    ## Vision
+        ## Achievements & Competitions
 
-    > *"I don't just want to write code - I want to build companies, solve real problems, and become someone genuinely useful inside organizations that matter."*
-    > >
-    > >> Open to: **AI/ML Engineer**, **Fintech Developer**, **Blockchain Analytics**, **Prompt Engineer** roles & collaborations.
-    > >>
-    > >> ---
-    > >>
-    > >> ## Let's Connect
-    > >>
-    > >> <div align="center">
+        - **PIDI Digdaya x Hackathon 2026** - FinCrime AI (Team Lead) - *Bank Indonesia / OJK*
+        - - **Asah ML Cohort by Dicoding** - 6-month production ML program (Capstone Team Leader)
+          - - Final Year Informatics @ Universitas Gunadarma
+            - - Building production-ready AI pipelines for the Indonesian financial ecosystem
+             
+              - ---
 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-AndiArifAbdillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-arif-abdillah-15279030a/)
-    [![GitHub](https://img.shields.io/badge/GitHub-AndiArifAbdillah-181717?style=for-the-badge&logo=github)](https://github.com/AndiArifAbdillah)
+              ## Vision
 
-    </div>
+              > *"I don't just want to write code - I want to build companies, solve real problems, and become someone genuinely useful inside organizations that matter."*
+              > >
+              > >> Open to: **AI/ML Engineer**, **Fintech Developer**, **Blockchain Analytics**, **Prompt Engineer** roles & collaborations.
+              > >>
+              > >> ---
+              > >>
+              > >> ## Let's Connect
+              > >>
+              > >> <div align="center">
 
-    <div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-    </div>div>
+              [![LinkedIn](https://img.shields.io/badge/LinkedIn-AndiArifAbdillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-arif-abdillah-15279030a/)
+              [![GitHub](https://img.shields.io/badge/GitHub-AndiArifAbdillah-181717?style=for-the-badge&logo=github)](https://github.com/AndiArifAbdillah)
+              [![Kaggle](https://img.shields.io/badge/Kaggle-andiarifabdillah-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/andiarifabdillah)
+
+              </div>
+
+              <div align="center">
+              <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+              </div>div>
