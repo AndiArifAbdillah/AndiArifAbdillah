@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndiArifAbdillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andiarifabdillah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndiArifAbdillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-arif-abdillah-15279030a/)
 [![GitHub followers](https://img.shields.io/github/followers/AndiArifAbdillah?style=for-the-badge&logo=github&color=A855F7)](https://github.com/AndiArifAbdillah)
 [![Profile Views](https://komarev.com/ghpvc/?username=AndiArifAbdillah&style=for-the-badge&color=A855F7)](https://github.com/AndiArifAbdillah)
 
@@ -156,7 +156,7 @@ class AndiArifAbdillah:
     > >>
     > >> <div align="center">
 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-AndiArifAbdillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andiarifabdillah)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-AndiArifAbdillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-arif-abdillah-15279030a/)
     [![GitHub](https://img.shields.io/badge/GitHub-AndiArifAbdillah-181717?style=for-the-badge&logo=github)](https://github.com/AndiArifAbdillah)
 
     </div>
