@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Andi%20Arif%20Abdillah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20FinCrime%20Builder%20%7C%20Future%20Techpreneur&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Andi%20Arif%20Abdillah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Fintech%20Developer%20%7C%20Future%20Techpreneur&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Blockchain+Analytics+%7C+Prompt+Engineer;Building+AI+for+Financial+Crime+Prevention;XGBoost+%7C+GraphSAGE+%7C+Isolation+Forest;Open+to+Work+%7C+Open+to+Collaborate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+Fintech+Developer;Blockchain+Analytics+%7C+Prompt+Engineer;Building+AI+for+Financial+Crime+Prevention;Open+to+Work+%7C+Open+to+Collaborate)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,15 +21,16 @@ class AndiArifAbdillah:
     def __init__(self):
         self.name       = "Andi Arif Abdillah"
         self.role       = "AI/ML Engineer & Team Lead"
-        self.university = "Universitas Gunadarma - Informatics"
+        self.university = "Universitas Gunadarma - Informatics, Class 4IA05"
         self.location   = "Bekasi, Indonesia"
-        self.focus      = ["FinCrime AI", "Blockchain Analytics", "Prompt Engineering"]
+        self.focus      = ["FinCrime AI", "Fintech", "Blockchain Analytics", "Prompt Engineering"]
         self.mission    = "Build AI systems that protect people & create real-world impact"
         self.ambition   = "Techpreneur - where engineering meets business"
 
     def career_interests(self):
         return [
             "AI/ML Engineer",
+            "Fintech Developer",
             "Blockchain Analytics",
             "Prompt Engineer"
         ]
@@ -52,6 +53,7 @@ class AndiArifAbdillah:
 | Role | Skills | Focus |
 |------|--------|-------|
 | AI/ML Engineer | XGBoost, PyTorch, Scikit-learn, SHAP | Fraud Detection, Credit Scoring, Anomaly Detection |
+| Fintech Developer | Python, Flask, REST API, Payment Systems | Digital banking, credit scoring, financial infrastructure |
 | Blockchain Analytics | GraphSAGE, PyTorch Geometric, AML Tracing | Crypto transaction graph analysis, on-chain forensics |
 | Prompt Engineer | LLM fine-tuning, RAG, Chain-of-Thought | AI system design, intelligent automation |
 
@@ -137,7 +139,7 @@ class AndiArifAbdillah:
 ## Achievements & Competitions
 
 - **PIDI Digdaya x Hackathon 2026** - FinCrime AI (Team Lead) - *Bank Indonesia / OJK*
-- - Final Year Informatics @ Universitas Gunadarma 
+- - Final Year Informatics @ Universitas Gunadarma (NPM: 50422210)
   - - Building production-ready AI pipelines for the Indonesian financial ecosystem
    
     - ---
@@ -146,7 +148,7 @@ class AndiArifAbdillah:
 
     > *"I don't just want to write code - I want to build companies, solve real problems, and become someone genuinely useful inside organizations that matter."*
     > >
-    > >> Open to: **AI/ML Engineer**, **Blockchain Analytics**, **Prompt Engineer** roles, collaborations.
+    > >> Open to: **AI/ML Engineer**, **Fintech Developer**, **Blockchain Analytics**, **Prompt Engineer** roles, internships & collaborations.
     > >>
     > >> ---
     > >>
