@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Andi%20Arif%20Abdillah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20FinCrime%20Builder%20%7C%20Future%20Techpreneur&descAlignY=55&descSize=16"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+AI+for+Financial+Crime+Prevention;XGBoost+%7C+GraphSAGE+%7C+Isolation+Forest;Python+%7C+Docker+%7C+PyTorch+Geometric;Hackathon+Competitor+%7C+Open+to+Collaborate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Blockchain+Analytics+%7C+Prompt+Engineer;Building+AI+for+Financial+Crime+Prevention;XGBoost+%7C+GraphSAGE+%7C+Isolation+Forest;Open+to+Work+%7C+Open+to+Collaborate)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AndiArifAbdillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andiarifabdillah)
 [![GitHub followers](https://img.shields.io/github/followers/AndiArifAbdillah?style=for-the-badge&logo=github&color=A855F7)](https://github.com/AndiArifAbdillah)
 [![Profile Views](https://komarev.com/ghpvc/?username=AndiArifAbdillah&style=for-the-badge&color=A855F7)](https://github.com/AndiArifAbdillah)
@@ -24,11 +21,18 @@ class AndiArifAbdillah:
     def __init__(self):
         self.name       = "Andi Arif Abdillah"
         self.role       = "AI/ML Engineer & Team Lead"
-        self.university = "Universitas Gunadarma - Informatics"
+        self.university = "Universitas Gunadarma - Informatics, Class 4IA05"
         self.location   = "Bekasi, Indonesia"
-        self.focus      = ["FinCrime AI", "Graph Neural Networks", "Fraud Detection"]
+        self.focus      = ["FinCrime AI", "Blockchain Analytics", "Prompt Engineering"]
         self.mission    = "Build AI systems that protect people & create real-world impact"
         self.ambition   = "Techpreneur - where engineering meets business"
+
+    def career_interests(self):
+        return [
+            "AI/ML Engineer",
+            "Blockchain Analytics",
+            "Prompt Engineer"
+        ]
 
     def current_project(self):
         return {
@@ -38,6 +42,20 @@ class AndiArifAbdillah:
             "scope": ["Credit Scoring", "Fraud Detection", "Crypto AML Tracing"]
         }
 ```
+
+---
+
+## Career Interests
+
+<div align="center">
+
+| Role | Skills | Focus |
+|------|--------|-------|
+| AI/ML Engineer | XGBoost, PyTorch, Scikit-learn, SHAP | Fraud Detection, Credit Scoring, Anomaly Detection |
+| Blockchain Analytics | GraphSAGE, PyTorch Geometric, AML Tracing | Crypto transaction graph analysis, on-chain forensics |
+| Prompt Engineer | LLM fine-tuning, RAG, Chain-of-Thought | AI system design, intelligent automation |
+
+</div>
 
 ---
 
@@ -81,6 +99,12 @@ class AndiArifAbdillah:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+**Blockchain & Analytics**
+
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
 **Infrastructure & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -113,7 +137,7 @@ class AndiArifAbdillah:
 ## Achievements & Competitions
 
 - **PIDI Digdaya x Hackathon 2026** - FinCrime AI (Team Lead) - *Bank Indonesia / OJK*
-- - Final Year Informatics @ Universitas Gunadarma
+- - Final Year Informatics @ Universitas Gunadarma (NPM: 50422210)
   - - Building production-ready AI pipelines for the Indonesian financial ecosystem
    
     - ---
@@ -122,7 +146,7 @@ class AndiArifAbdillah:
 
     > *"I don't just want to write code - I want to build companies, solve real problems, and become someone genuinely useful inside organizations that matter."*
     > >
-    > >> Currently open to: **internships**, **collaborations**, **startup opportunities**, and **AI/ML engineering roles**.
+    > >> Open to: **AI/ML Engineer**, **Blockchain Analytics**, **Prompt Engineer** roles, internships & collaborations.
     > >>
     > >> ---
     > >>
@@ -130,6 +154,7 @@ class AndiArifAbdillah:
     > >>
     > >> <div align="center">
 
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-AndiArifAbdillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andiarifabdillah)
     [![GitHub](https://img.shields.io/badge/GitHub-AndiArifAbdillah-181717?style=for-the-badge&logo=github)](https://github.com/AndiArifAbdillah)
 
     </div>
